@@ -1,0 +1,14 @@
+{
+  "name": "entorno-programacion-2daw",
+  "version": "1.0.0",
+  "description": "Práctica de configuración del entorno de programación de 2º DAW",
+  "main": "hola.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hola.js"
+  },
+  "keywords": [],
+  "author": "Adela Sánchez-Crespo Moñino",
+  "license": "ISC",
+  "type": "commonjs"
+}
