@@ -1,0 +1,13 @@
+console.log("=================================");
+console.log("ENTORNO DE PROGRAMACIÓN");
+console.log("=================================");
+console.log("Alumno: Adela Sánchez-Crespo Monino");
+console.log("Curso: 2º DAW");
+console.log("Herramientas:");
+console.log("Visual Studio Code: instalado");
+console.log("Node.js: instalado");
+console.log("npm: instalado");
+console.log("Git: instalado");
+console.log("GitHub: configurado");
+console.log("Versión de Node.js: " + process.version);
+console.log("=================================");
